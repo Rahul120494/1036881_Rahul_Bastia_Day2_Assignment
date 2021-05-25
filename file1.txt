@@ -1,2 +1,2 @@
-THis is demo for assignment day2. - updated from branch2
+This is demo for assignment day2.-merge conflict resolved
 
